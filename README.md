@@ -9,6 +9,6 @@
 - `InetAddressExample.java`: Tra cứu địa chỉ IP cục bộ và địa chỉ IP tên miền.
 
 ## 2. Hình ảnh kết quả chạy chương trình
-![Màn hình chụp kết quả](screenshot/01-url-example.png)
+![Màn hình chụp kết quả](screenshot/01-url-example.png.png)
 ![Màn hình chụp kết quả](screenshot/02-url-connection.png)
 ![Màn hình chụp kết quả](screenshot/03-inet-address.png)
